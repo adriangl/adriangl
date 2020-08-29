@@ -1,0 +1,48 @@
+name: Generate README.md from master branch
+on:
+  # Update on push to master or via schedule
+  push:
+    branches:
+      - master
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    # Check the syntax in https://crontab.guru/
+    - cron:  '0 0 * * *'
+
+jobs:
+  build:
+    name: Generate README.md file
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v2
+        with:
+          ref: master
+          fetch-depth: 0 # Full repo history
+      - name: Read .nvmrc
+        id: read_nvmrc
+        run: |
+          echo ::set-output name=NODE_VERSION::$(cat .nvmrc)
+      - name: Setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ steps.read_nvmrc.outputs.NODE_VERSION }}
+      - name: Cache dependencies
+        uses: actions/cache@v1
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+      - name: Install dependencies
+        run: npm install
+      - name: Run generate_readme.js to generate the template
+        run: |
+          node generate_readme.js
+      - name: Commit new files
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "github-actions"
+          git commit -a -m "Update README.md"
+      - name: Push changes to GitHub
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
