@@ -1,11 +1,63 @@
 ## Hi there 👋
+![Twitter](https://img.shields.io/badge/%20-1ca0f1?color=1ca0f1&label=@agl89&logo=twitter&logoColor=white&style=flat-square&link=https://twitter.com/agl89)
+![Medium](https://img.shields.io/badge/%20-00ab6c?color=00ab6c&label=Adri%C3%A1n%20Garc%C3%ADa&logo=medium&logoColor=white&style=flat-square&link=https://medium.com/@adrian.gl)
+![LinkedIn](https://img.shields.io/badge/%20-0e76a8?color=0e76a8&label=adriangarcialopez&logo=linkedin&logoColor=white&style=flat-square&link=https://www.linkedin.com/in/adriangarcialopez)
+![Google Play apps](https://img.shields.io/badge/%20-ffd400?color=ffd400&label=Adri%C3%A1n%20Garc%C3%ADa&logo=google-play&logoColor=white&style=flat-square&link=https://play.google.com/store/apps/developer?id=Adri%C3%A1n+Garc%C3%ADa)
+![Github contact](https://img.shields.io/badge/%20-f5f5f5?color=f5f5f5&label=Contact%20me%20on%20GitHub&logo=github&logoColor=white&style=flat-square&link=https://github.com/adriangl/adriangl/issues/new)
 
-Welcome to my page!
+------------
 
-My name is {{full_name}}, an Android developer from Madrid, Spain :flag_spa:
+Nice to meet you! My name is **Adrián García**, an **Android developer** from **Madrid, Spain 🇪🇸** {{#weatherInfo}}(It's {{temperature}}ºC, BTW!){{/weatherInfo}} currently working at [@bq](https://github.com/bq).
 
-## Things I code with
+I mainly focus on Android development with Kotlin and Java, but I'm not afraid of tinkering with Typescript, Python or shell scripts.
+I also love studying new software architectures and patterns and try my best at automating stuff (Github Actions FTW!) 
+
+## About me
+<!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+- 🔭 I’m currently working on open-source libs, apps and tools that improve Android development
+- 🌱 I’m currently learning a bit of Typescript so I can work on some projects with Firebase
+- 💬 Ask me about anything Android related. Maybe I can also help with architecture stuff :P
+- ⚡ Fun fact: I'm a videogame enthusiast 🎮
 
 ## Open source and contributions
+### Personal open source projects
+| Project  |   Platforms   |  Programming Language(s)  | Stars | PRs | Issues |
+| -------  | ------------- | ------------------------- | ----- | --- | ------ |
+{{#openSourceProjects}}
+| [{{name}}](https://github.com/{{repo}}) | {{platforms}} | {{programmingLanguages}} | ![](https://img.shields.io/github/stars/{{repo}}?style=flat-square) | ![](https://img.shields.io/github/issues-pr/{{repo}}?style=flat-square) | ![](https://img.shields.io/github/issues/{{repo}}?style=flat-square)
+{{/openSourceProjects}}
 
-## Where to reach me
+### Projects I contribute to
+| Project  |   Platforms   |  Programming Language(s)  | Stars | PRs | Issues |
+| -------  | ------------- | ------------------------- | ----- | --- | ------ |
+{{#openSourceContributions}}
+| [{{name}}](https://github.com/{{repo}}) | {{platforms}} | {{programmingLanguages}} | ![](https://img.shields.io/github/stars/{{repo}}?style=flat-square) | ![](https://img.shields.io/github/issues-pr/{{repo}}?style=flat-square) | ![](https://img.shields.io/github/issues/{{repo}}?style=flat-square)
+{{/openSourceContributions}}
+
+## Some Github stats
+Who doesn't love some stats?
+> NOTE: the stats include both public and private repository contributions
+![Code stats](https://github.com/adriangl/github-stats/raw/master/generated/overview.svg) 
+![Top Langs](https://github.com/adriangl/github-stats/raw/master/generated/languages.svg)
+
+_Thanks to [Jacob Strieb's github-stats project](https://github.com/jstrieb/github-stats) for the code and language stats. Be sure to check it out!_
+
+## My latest posts
+{{#latestBlogPosts}}
+* [{{title}}]({{link}}) written on {{date}}
+{{/latestBlogPosts}}
+
+➡️ [More posts here]({{blogUrl}})
+
+------------
+
+_This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every 6 hours. Latest update: {{latestUpdateDate}}_

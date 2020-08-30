@@ -7,7 +7,7 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     # Check the syntax in https://crontab.guru/
-    - cron:  '0 0 * * *'
+    - cron:  '0 0/6 * * *'
 
 jobs:
   build:
@@ -35,6 +35,8 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Run generate_readme.js to generate the template
+        env:
+          OPEN_WEATHER_API_KEY: ${{ secrets.OPEN_WEATHER_API_KEY }}
         run: |
           node generate_readme.js
       - name: Commit new files
