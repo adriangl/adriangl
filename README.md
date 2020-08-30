@@ -10,23 +10,15 @@
 Nice to meet you! My name is **Adrián García**, an **Android developer** from **Madrid, Spain 🇪🇸** (It's 15ºC, BTW!) currently working at [@bq](https://github.com/bq).
 
 I mainly focus on Android development with Kotlin and Java, but I'm not afraid of tinkering with Typescript, Python or shell scripts.
-I also love studying new software architectures and patterns and try my best at automating stuff (Github Actions FTW!) 
+
+War-scarred by Clean architectures and now in love with Redux/Flux and reactive programming, I keep studying new software architectures and patterns to improve my code.
+I also try my best at automating stuff (Github Actions FTW!)
 
 ------------
 
 ## About me
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on open-source libs, apps and tools that improve Android development
-- 🌱 I’m currently learning a bit of Typescript so I can work on some projects with Firebase
+- 🔭 I'm currently working on open-source libs, apps and tools that improve Android development
+- 🌱 I'm learning a bit of Typescript so I can work on some projects with Firebase
 - 💬 Ask me about anything Android related. Maybe I can also help with architecture stuff :P
 - ⚡ Fun fact: I'm a videogame enthusiast 🎮
 
@@ -61,4 +53,4 @@ _Thanks to [Jacob Strieb's github-stats project](https://github.com/jstrieb/gith
 
 ------------
 
-_This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every 6 hours. Latest update: Sunday, August 30, 03:00 AM GMT+2_
+_This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every 6 hours. Latest update: Sunday, August 30, 03:16 AM GMT+2_
