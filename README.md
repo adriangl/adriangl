@@ -44,17 +44,15 @@ Who doesn't love some stats?
 ![Code stats](https://github.com/adriangl/github-stats/raw/master/generated/overview.svg) 
 ![Top Langs](https://github.com/adriangl/github-stats/raw/master/generated/languages.svg)
 
-_Thanks to [Jacob Strieb's github-stats project](https://github.com/jstrieb/github-stats) for the code and language stats. Be sure to check it out!_
-
 ## My latest posts
 * [Adapting your apps to Android Oreo](https:&#x2F;&#x2F;medium.com&#x2F;bq-engineering&#x2F;adapting-your-apps-to-android-oreo-56055fbfbeef?source&#x3D;rss-9494e2f269a9------2) written on Friday, July 27, 09:21 AM GMT+2
 
 ➡️ [More posts here](https:&#x2F;&#x2F;medium.com&#x2F;@adrian.gl?source&#x3D;rss-9494e2f269a9------2)
 
 ## Credits
-* _Thanks to [Thomas Guibert's awesome guide to create automated GitHub profile READMEs](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91_).
+* _Thanks to [Thomas Guibert's awesome guide to create automated GitHub profile READMEs](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91)._
 * _Thanks to [Jacob Strieb's github-stats project](https://github.com/jstrieb/github-stats) for the code and language stats' images._
 
 ------------
 
-_This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day. Latest update: Sunday, September 13, 02:36 PM GMT+2_
+_This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day. Latest update: Sunday, September 13, 02:51 PM GMT+2_
