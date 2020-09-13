@@ -7,7 +7,7 @@
 
 ------------
 
-Nice to meet you! My name is **Adrián García**, an **Android developer** from **Madrid, Spain 🇪🇸** (It's 12ºC, BTW!) currently working at [@bq](https://github.com/bq).
+Nice to meet you! My name is **Adrián García**, an **Android developer** from **Madrid, Spain 🇪🇸** currently working at [@bq](https://github.com/bq).
 
 I mainly focus on Android development with Kotlin and Java, but I'm not afraid of tinkering with Typescript, Python or shell scripts.
 
@@ -51,6 +51,10 @@ _Thanks to [Jacob Strieb's github-stats project](https://github.com/jstrieb/gith
 
 ➡️ [More posts here](https:&#x2F;&#x2F;medium.com&#x2F;@adrian.gl?source&#x3D;rss-9494e2f269a9------2)
 
+## Credits
+* Thanks to [Thomas Guibert's awesome guide to create automated GitHub profile READMEs](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91).
+* Thanks to [Jacob Strieb's github-stats project](https://github.com/jstrieb/github-stats) for the code and language stats' images.
+
 ------------
 
-_This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every 6 hours. Latest update: Sunday, August 30, 08:10 AM GMT+2_
+_This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day. Latest update: Sunday, September 13, 02:29 PM GMT+2_

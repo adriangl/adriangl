@@ -7,7 +7,7 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     # Check the syntax in https://crontab.guru/
-    - cron:  '0 0/6 * * *'
+    - cron:  '0 0 * * *'
 
 jobs:
   build:
@@ -28,15 +28,15 @@ jobs:
         with:
           node-version: ${{ steps.read_nvmrc.outputs.NODE_VERSION }}
       - name: Cache dependencies
-        uses: actions/cache@v1
+        uses: actions/cache@v2
         with:
-          path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
       - name: Install dependencies
         run: npm install
       - name: Run generate_readme.js to generate the template
-        env:
-          OPEN_WEATHER_API_KEY: ${{ secrets.OPEN_WEATHER_API_KEY }}
         run: |
           node generate_readme.js
       - name: Commit new files

@@ -73,13 +73,11 @@ const openSourceAndContributions = {
 
 async function generateReadme() {
   const blogData = await getMediumPosts(config.postOptions.mediumHandle, config.postOptions.maxPostNumber);
-  const weatherInfo = await getWeatherInfo(config.weatherOptions.cityQuery, config.weatherOptions.units);
 
   const templateData = {
     latestUpdateDate : new Date().toLocaleDateString(config.dateLocale, config.dateOptions),
     blogUrl: blogData.blogUrl,
     latestBlogPosts: blogData.latestBlogPosts,
-    weatherInfo: weatherInfo,
     openSourceProjects: openSourceAndContributions.personal,
     openSourceContributions: openSourceAndContributions.contributions
   };
@@ -109,18 +107,6 @@ async function getMediumPosts(handle, maxPostNumber) {
     blogUrl: feed.link, 
     latestBlogPosts: latestBlogPosts
   };
-}
-
-async function getWeatherInfo(city_query, units) {
-  const openWeatherUrl = encodeURI(`https://api.openweathermap.org/data/2.5/weather?q=${city_query}&appid=${process.env.OPEN_WEATHER_API_KEY}&units=${units}`)
-  const response = await fetch(openWeatherUrl);
-  const jsonData = await response.json();
-
-  return {
-    temperature: Math.round(jsonData.main.temp),
-    //weather: jsonData.weather[0].description,
-    //icon: jsonData.weather[0].icon
-  }
 }
 
 generateReadme();
