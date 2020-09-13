@@ -52,9 +52,9 @@ _Thanks to [Jacob Strieb's github-stats project](https://github.com/jstrieb/gith
 ➡️ [More posts here](https:&#x2F;&#x2F;medium.com&#x2F;@adrian.gl?source&#x3D;rss-9494e2f269a9------2)
 
 ## Credits
-* Thanks to [Thomas Guibert's awesome guide to create automated GitHub profile READMEs](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91).
-* Thanks to [Jacob Strieb's github-stats project](https://github.com/jstrieb/github-stats) for the code and language stats' images.
+* _Thanks to [Thomas Guibert's awesome guide to create automated GitHub profile READMEs](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91_).
+* _Thanks to [Jacob Strieb's github-stats project](https://github.com/jstrieb/github-stats) for the code and language stats' images._
 
 ------------
 
-_This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day. Latest update: Sunday, September 13, 02:29 PM GMT+2_
+_This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day. Latest update: Sunday, September 13, 02:34 PM GMT+2_

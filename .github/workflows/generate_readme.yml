@@ -27,10 +27,14 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: ${{ steps.read_nvmrc.outputs.NODE_VERSION }}
+      - name: Get npm cache directory
+        id: npm-cache
+        run: |
+          echo "::set-output name=dir::$(npm config get cache)"
       - name: Cache dependencies
         uses: actions/cache@v2
         with:
-          path: ~/.npm
+          path: ${{ steps.npm-cache.outputs.dir }}
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
