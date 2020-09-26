@@ -36,6 +36,7 @@ I also try my best at automating stuff (Github Actions FTW!)
 | -------  | ------------- | ------------------------- | ----- | --- | ------ |
 | [PoEditor Android Gradle Plugin](https://github.com/bq&#x2F;poeditor-android-gradle-plugin) | Android | Kotlin | ![](https://img.shields.io/github/stars/bq&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;poeditor-android-gradle-plugin?style=flat-square)
 | [Mini Kotlin](https://github.com/bq&#x2F;mini-kotlin) | Android, Java, Kotlin | Kotlin | ![](https://img.shields.io/github/stars/bq&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;mini-kotlin?style=flat-square)
+| [Android App Updates Helper](https://github.com/bq&#x2F;android-app-updates-helper) | Android | Java | ![](https://img.shields.io/github/stars/bq&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;android-app-updates-helper?style=flat-square)
 
 ## Some Github stats
 Who doesn't love some stats?
@@ -55,4 +56,4 @@ Who doesn't love some stats?
 
 ------------
 
-_This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day. Latest update: Saturday, September 26, 02:08 AM GMT+2_
+_This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day. Latest update: Saturday, September 26, 12:18 PM GMT+2_
