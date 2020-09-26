@@ -67,6 +67,12 @@ const openSourceAndContributions = {
       repo: "bq/mini-kotlin",
       platforms: "Android, Java, Kotlin",
       programmingLanguages: "Kotlin"
+    },
+    {
+      name: "Android App Updates Helper",
+      repo: "bq/android-app-updates-helper",
+      platforms: "Android",
+      programmingLanguages: "Java"
     }
   ]
 };
