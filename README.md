@@ -38,7 +38,7 @@ I also try my best at automating stuff (Github Actions FTW!)
 | [Mini Kotlin](https://github.com/bq&#x2F;mini-kotlin) | Android, Java, Kotlin | Kotlin | ![](https://img.shields.io/github/stars/bq&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;mini-kotlin?style=flat-square)
 | [Android App Updates Helper](https://github.com/bq&#x2F;android-app-updates-helper) | Android | Java | ![](https://img.shields.io/github/stars/bq&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;android-app-updates-helper?style=flat-square)
 
-## Some Github stats
+## Some GitHub stats
 Who doesn't love some stats?
 > NOTE: the stats include both public and private repository contributions
 
@@ -46,7 +46,7 @@ Who doesn't love some stats?
 ![Top Langs](https://github.com/adriangl/github-stats/raw/master/generated/languages.svg)
 
 ## My latest posts
-* [Adapting your apps to Android Oreo](https:&#x2F;&#x2F;medium.com&#x2F;bq-engineering&#x2F;adapting-your-apps-to-android-oreo-56055fbfbeef?source&#x3D;rss-9494e2f269a9------2) written on Friday, July 27, 09:21 AM GMT+2
+* [Adapting your apps to Android Oreo](https:&#x2F;&#x2F;medium.com&#x2F;bq-engineering&#x2F;adapting-your-apps-to-android-oreo-56055fbfbeef?source&#x3D;rss-9494e2f269a9------2) written on Friday, July 27, 2018, 09:21 AM GMT+2
 
 ➡️ [More posts here](https:&#x2F;&#x2F;medium.com&#x2F;@adrian.gl?source&#x3D;rss-9494e2f269a9------2)
 
@@ -56,4 +56,4 @@ Who doesn't love some stats?
 
 ------------
 
-_This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day. Latest update: Wednesday, September 30, 02:08 AM GMT+2_
+_This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day. Latest update: Wednesday, September 30, 2020, 06:44 PM GMT+2_

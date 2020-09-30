@@ -17,8 +17,9 @@ const config = {
     units: 'metric',
   },
   dateOptions: {
-    weekday: 'long',
+    year: 'numeric',
     month: 'long',
+    weekday: 'long',
     day: 'numeric',
     hour: '2-digit',
     minute: '2-digit',
