@@ -4,12 +4,22 @@
   "description": "GitHub profile of Adrián García",
   "main": "index.js",
   "scripts": {
-    "generate_readme": "node src/generate_readme.js"
+    "generate_readme": "node src/generate_readme.js",
+    "pre-commit": "npx lint-staged"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/adriangl/adriangl.git"
   },
+  "lint-staged": {
+    "*.js": [
+      "npx eslint --fix",
+      "npx prettier --write"
+    ]
+  },
+  "pre-commit": [
+    "pre-commit"
+  ],
   "author": "Adrián García",
   "license": "Apache-2.0",
   "bugs": {
@@ -22,5 +32,16 @@
     "mustache": "^4.0.1",
     "node-fetch": "^2.6.1",
     "rss-parser": "^3.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "lint-staged": "^10.4.0",
+    "pre-commit": "^1.2.2",
+    "prettier": "^2.1.2"
   }
 }
