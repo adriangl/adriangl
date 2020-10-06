@@ -56,6 +56,7 @@ async function generateReadme() {
     latestBlogPosts: blogData.latestBlogPosts,
     openSourceProjects: openSourceProjects,
     openSourceContributions: openSourceContributions,
+    version: process.env.npm_package_version,
   };
 
   // Render all variables in the template
