@@ -35,7 +35,6 @@
     "@octokit/rest": "^18.0.6",
     "dotenv": "^8.2.0",
     "mustache": "^4.0.1",
-    "node-fetch": "^2.6.1",
     "rss-parser": "^3.9.0"
   },
   "devDependencies": {
