@@ -43,7 +43,7 @@ npm run generate_readme
 ## Templates
 * Read `mustache` docs: https://mustache.github.io/
 
-### RSS parsing
+## RSS parsing
 * Seemed simple enough for our use case (getting posts from Medium). 
 * Check `rss-parser` docs: https://www.npmjs.com/package/rss-parser
 
