@@ -40,14 +40,15 @@ jobs:
             ${{ runner.os }}-node-
       - name: Install dependencies
         run: npm install
-      - name: Run generate_readme.js to generate the template
+      - name: Run generate_readme
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          node generate_readme.js
+          npm run generate_readme
       - name: Commit new files
         run: |
           # We use the e-mail mentioned here: https://github.community/t/github-actions-bot-email-address/17204/6
+          
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions"
           git commit -a -m "Update README.md"

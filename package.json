@@ -4,7 +4,7 @@
   "description": "GitHub profile of Adrián García",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "generate_readme": "node src/generate_readme.js"
   },
   "repository": {
     "type": "git",
