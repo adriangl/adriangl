@@ -36,6 +36,7 @@ I also try my best at automating stuff (Github Actions FTW!)
 | -------  | ------------- | ------------------------- | ------------- | ----- | --- | ------ |
 | [PoEditor Android Gradle Plugin](https://github.com/bq&#x2F;poeditor-android-gradle-plugin) | Android | Kotlin | September 28, 2020 | ![](https://img.shields.io/github/stars/bq&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;poeditor-android-gradle-plugin?style=flat-square)
 | [Android App Updates Helper](https://github.com/bq&#x2F;android-app-updates-helper) | Android | Java | September 25, 2020 | ![](https://img.shields.io/github/stars/bq&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;android-app-updates-helper?style=flat-square)
+| [tag-flow](https://github.com/bq&#x2F;tag-flow) | Any | Python | September 7, 2020 | ![](https://img.shields.io/github/stars/bq&#x2F;tag-flow?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;tag-flow?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;tag-flow?style=flat-square)
 | [Mini Kotlin](https://github.com/bq&#x2F;mini-kotlin) | Android, Kotlin | Kotlin | August 13, 2020 | ![](https://img.shields.io/github/stars/bq&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;mini-kotlin?style=flat-square)
 
 ## Some GitHub stats
@@ -56,4 +57,4 @@ Who doesn't love some stats?
 
 ------------
 
-_This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day. Latest update: Tuesday, October 6, 2020, 08:31 PM GMT+2_
+_This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day. Latest update: Tuesday, October 6, 2020, 08:36 PM GMT+2_

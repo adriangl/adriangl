@@ -44,6 +44,12 @@ const githubProjects = {
       repo: "android-app-updates-helper",
       platforms: "Android",
     },
+    {
+      name: "tag-flow",
+      owner: "bq",
+      repo: "tag-flow",
+      platforms: "Any",
+    },
   ],
 };
 
