@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "generate_readme": "node src/generate_readme.js",
+    "eslint": "npx eslint --fix src/**/*.js",
+    "prettier": "npx prettier --write src/**/*.js",
     "pre-commit": "npx lint-staged"
   },
   "repository": {
@@ -35,6 +37,7 @@
   },
   "devDependencies": {
     "eslint": "^7.10.0",
+    "eslint-config-prettier": "^6.12.0",
     "eslint-config-standard": "^14.1.1",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-node": "^11.1.0",
@@ -42,6 +45,6 @@
     "eslint-plugin-standard": "^4.0.1",
     "lint-staged": "^10.4.0",
     "pre-commit": "^1.2.2",
-    "prettier": "^2.1.2"
+    "prettier": "2.1.2"
   }
 }
