@@ -1,8 +1,15 @@
+require('dotenv').config()
+
 const Mustache = require('mustache');
 const fs = require('fs');
 const fetch = require('node-fetch');
 const Parser = require('rss-parser');
 const rssParser = new Parser();
+const { Octokit } = require("@octokit/rest");
+const octokit = new Octokit({
+  auth: process.env.GITHUB_TOKEN,
+  userAgent: 'adriangl GitHub README generator'
+});
 
 const README_TEMPLATE_FILE = './README.mustache';
 const README_FILE = './README.md'
@@ -26,6 +33,12 @@ const config = {
     timeZone: 'Europe/Madrid',
     timeZoneName: 'short'
   },
+  repoDateOptions: {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+    timeZone: 'Europe/Madrid'
+  },
   dateLocale: "en-US",
 };
 
@@ -33,47 +46,47 @@ const openSourceAndContributions = {
   personal: [
     {
       name: "Pict2Cam",
-      repo: "adriangl/pict2cam",
+      owner: "adriangl",
+      repo: "pict2cam",
       platforms: "Android",
-      programmingLanguages: "Kotlin"
     },
     {
       name: "Dev-QuickSettings",
-      repo: "adriangl/Dev-QuickSettings",
+      owner: "adriangl",
+      repo: "Dev-QuickSettings",
       platforms: "Android",
-      programmingLanguages: "Kotlin"
     },
     {
       name: "OverlayHelper",
-      repo: "adriangl/OverlayHelper",
+      owner: "adriangl",
+      repo: "OverlayHelper",
       platforms: "Android",
-      programmingLanguages: "Java"
     },
     {
       name: "Dissidia Duodecim Final Fantasy DLC Toolkit",
-      repo: "adriangl/DissDlcToolkit",
+      owner: "adriangl",
+      repo: "DissDlcToolkit",
       platforms: "Windows",
-      programmingLanguages: "C#"
     }
   ],
   contributions: [
     {
       name: "PoEditor Android Gradle Plugin",
-      repo: "bq/poeditor-android-gradle-plugin",
+      owner: "bq",
+      repo: "poeditor-android-gradle-plugin",
       platforms: "Android",
-      programmingLanguages: "Kotlin"
     },
     {
       name: "Mini Kotlin",
-      repo: "bq/mini-kotlin",
-      platforms: "Android, Java, Kotlin",
-      programmingLanguages: "Kotlin"
+      owner: "bq",
+      repo: "mini-kotlin",
+      platforms: "Android, Kotlin",
     },
     {
       name: "Android App Updates Helper",
-      repo: "bq/android-app-updates-helper",
+      owner: "bq",
+      repo: "android-app-updates-helper",
       platforms: "Android",
-      programmingLanguages: "Java"
     }
   ]
 };
@@ -81,12 +94,15 @@ const openSourceAndContributions = {
 async function generateReadme() {
   const blogData = await getMediumPosts(config.postOptions.mediumHandle, config.postOptions.maxPostNumber);
 
+  openSourceProjects = await getGitHubDataFromProjects(openSourceAndContributions.personal);
+  openSourceContributions = await getGitHubDataFromProjects(openSourceAndContributions.contributions);
+
   const templateData = {
     latestUpdateDate : new Date().toLocaleDateString(config.dateLocale, config.dateOptions),
     blogUrl: blogData.blogUrl,
     latestBlogPosts: blogData.latestBlogPosts,
-    openSourceProjects: openSourceAndContributions.personal,
-    openSourceContributions: openSourceAndContributions.contributions
+    openSourceProjects: openSourceProjects,
+    openSourceContributions: openSourceContributions
   };
 
   // Render all variables in the template
@@ -114,6 +130,32 @@ async function getMediumPosts(handle, maxPostNumber) {
     blogUrl: feed.link, 
     latestBlogPosts: latestBlogPosts
   };
+}
+
+async function getGitHubDataFromProjects(projects) {
+  const projectData = []
+
+  for (const project of projects) {
+    repoInfo = await octokit.repos.get({
+      owner: project.owner,
+      repo: project.repo
+    });
+
+    const lastPushUpdate = new Date(repoInfo.data.pushed_at)
+
+    projectData.push({
+      name: project.name,
+      repo: repoInfo.data.full_name,
+      platforms: project.platforms,
+      language: repoInfo.data.language,
+      latestUpdatedDate: lastPushUpdate,
+      latestUpdate: lastPushUpdate.toLocaleDateString(config.dateLocale, config.repoDateOptions)
+    })
+  }
+
+  projectData.sort((a, b) => b.latestUpdatedDate - a.latestUpdatedDate);
+  
+  return projectData;
 }
 
 generateReadme();

@@ -24,19 +24,19 @@ I also try my best at automating stuff (Github Actions FTW!)
 
 ## Open source and contributions
 ### Personal open source projects
-| Project  |   Platforms   |  Programming Language(s)  | Stars | PRs | Issues |
-| -------  | ------------- | ------------------------- | ----- | --- | ------ |
-| [Pict2Cam](https://github.com/adriangl&#x2F;pict2cam) | Android | Kotlin | ![](https://img.shields.io/github/stars/adriangl&#x2F;pict2cam?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;pict2cam?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;pict2cam?style=flat-square)
-| [Dev-QuickSettings](https://github.com/adriangl&#x2F;Dev-QuickSettings) | Android | Kotlin | ![](https://img.shields.io/github/stars/adriangl&#x2F;Dev-QuickSettings?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;Dev-QuickSettings?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;Dev-QuickSettings?style=flat-square)
-| [OverlayHelper](https://github.com/adriangl&#x2F;OverlayHelper) | Android | Java | ![](https://img.shields.io/github/stars/adriangl&#x2F;OverlayHelper?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;OverlayHelper?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;OverlayHelper?style=flat-square)
-| [Dissidia Duodecim Final Fantasy DLC Toolkit](https://github.com/adriangl&#x2F;DissDlcToolkit) | Windows | C# | ![](https://img.shields.io/github/stars/adriangl&#x2F;DissDlcToolkit?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;DissDlcToolkit?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;DissDlcToolkit?style=flat-square)
+| Project  |   Platforms   |  Programming Language(s)  | Latest update | Stars | PRs | Issues |
+| -------  | ------------- | ------------------------- | ------------- | ----- | --- | ------ |
+| [Pict2Cam](https://github.com/adriangl&#x2F;pict2cam) | Android | Kotlin | October 5, 2020 | ![](https://img.shields.io/github/stars/adriangl&#x2F;pict2cam?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;pict2cam?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;pict2cam?style=flat-square)
+| [Dev-QuickSettings](https://github.com/adriangl&#x2F;Dev-QuickSettings) | Android | Kotlin | October 13, 2019 | ![](https://img.shields.io/github/stars/adriangl&#x2F;Dev-QuickSettings?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;Dev-QuickSettings?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;Dev-QuickSettings?style=flat-square)
+| [OverlayHelper](https://github.com/adriangl&#x2F;OverlayHelper) | Android | Java | June 17, 2019 | ![](https://img.shields.io/github/stars/adriangl&#x2F;OverlayHelper?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;OverlayHelper?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;OverlayHelper?style=flat-square)
+| [Dissidia Duodecim Final Fantasy DLC Toolkit](https://github.com/adriangl&#x2F;DissDlcToolkit) | Windows | C# | February 14, 2016 | ![](https://img.shields.io/github/stars/adriangl&#x2F;DissDlcToolkit?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;DissDlcToolkit?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;DissDlcToolkit?style=flat-square)
 
 ### Projects I contribute to
-| Project  |   Platforms   |  Programming Language(s)  | Stars | PRs | Issues |
-| -------  | ------------- | ------------------------- | ----- | --- | ------ |
-| [PoEditor Android Gradle Plugin](https://github.com/bq&#x2F;poeditor-android-gradle-plugin) | Android | Kotlin | ![](https://img.shields.io/github/stars/bq&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;poeditor-android-gradle-plugin?style=flat-square)
-| [Mini Kotlin](https://github.com/bq&#x2F;mini-kotlin) | Android, Java, Kotlin | Kotlin | ![](https://img.shields.io/github/stars/bq&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;mini-kotlin?style=flat-square)
-| [Android App Updates Helper](https://github.com/bq&#x2F;android-app-updates-helper) | Android | Java | ![](https://img.shields.io/github/stars/bq&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;android-app-updates-helper?style=flat-square)
+| Project  |   Platforms   |  Programming Language(s)  | Latest update | Stars | PRs | Issues |
+| -------  | ------------- | ------------------------- | ------------- | ----- | --- | ------ |
+| [PoEditor Android Gradle Plugin](https://github.com/bq&#x2F;poeditor-android-gradle-plugin) | Android | Kotlin | September 28, 2020 | ![](https://img.shields.io/github/stars/bq&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;poeditor-android-gradle-plugin?style=flat-square)
+| [Android App Updates Helper](https://github.com/bq&#x2F;android-app-updates-helper) | Android | Java | September 25, 2020 | ![](https://img.shields.io/github/stars/bq&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;android-app-updates-helper?style=flat-square)
+| [Mini Kotlin](https://github.com/bq&#x2F;mini-kotlin) | Android, Kotlin | Kotlin | August 13, 2020 | ![](https://img.shields.io/github/stars/bq&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;mini-kotlin?style=flat-square)
 
 ## Some GitHub stats
 Who doesn't love some stats?
@@ -56,4 +56,4 @@ Who doesn't love some stats?
 
 ------------
 
-_This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day. Latest update: Tuesday, October 6, 2020, 02:09 AM GMT+2_
+_This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day. Latest update: Tuesday, October 6, 2020, 05:02 PM GMT+2_

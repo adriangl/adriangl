@@ -41,6 +41,8 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Run generate_readme.js to generate the template
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           node generate_readme.js
       - name: Commit new files
