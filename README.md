@@ -34,8 +34,8 @@ I also try my best at automating stuff (Github Actions FTW!)
 ### Projects I contribute to
 | Project  |   Platforms   |  Programming Language(s)  | Latest update | Stars | PRs | Issues |
 | -------  | ------------- | ------------------------- | ------------- | ----- | --- | ------ |
+| [Android App Updates Helper](https://github.com/bq&#x2F;android-app-updates-helper) | Android | Java | October 7, 2020 | ![](https://img.shields.io/github/stars/bq&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;android-app-updates-helper?style=flat-square)
 | [PoEditor Android Gradle Plugin](https://github.com/bq&#x2F;poeditor-android-gradle-plugin) | Android | Kotlin | September 28, 2020 | ![](https://img.shields.io/github/stars/bq&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;poeditor-android-gradle-plugin?style=flat-square)
-| [Android App Updates Helper](https://github.com/bq&#x2F;android-app-updates-helper) | Android | Java | September 25, 2020 | ![](https://img.shields.io/github/stars/bq&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;android-app-updates-helper?style=flat-square)
 | [tag-flow](https://github.com/bq&#x2F;tag-flow) | Any | Python | September 7, 2020 | ![](https://img.shields.io/github/stars/bq&#x2F;tag-flow?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;tag-flow?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;tag-flow?style=flat-square)
 | [Mini Kotlin](https://github.com/bq&#x2F;mini-kotlin) | Android, Kotlin | Kotlin | August 13, 2020 | ![](https://img.shields.io/github/stars/bq&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;mini-kotlin?style=flat-square)
 
@@ -59,6 +59,6 @@ Who doesn't love some stats?
 
 _This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day_ 
 
-_Latest update: Wednesday, October 7, 2020, 02:09 AM GMT+2_
+_Latest update: Thursday, October 8, 2020, 02:08 AM GMT+2_
 
 _Latest repo version: 1.0.4_
