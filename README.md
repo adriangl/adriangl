@@ -26,7 +26,7 @@ I also try my best at automating stuff (Github Actions FTW!)
 ### Personal open source projects
 | Project  |   Platforms   |  Programming Language(s)  | Latest update | Stars | PRs | Issues |
 | -------  | ------------- | ------------------------- | ------------- | ----- | --- | ------ |
-| [Pict2Cam](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;pict2cam) | Android | Kotlin | November 9, 2020 | ![](https://img.shields.io/github/stars/adriangl&#x2F;pict2cam?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;pict2cam?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;pict2cam?style=flat-square)
+| [Pict2Cam](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;pict2cam) | Android | Kotlin | November 16, 2020 | ![](https://img.shields.io/github/stars/adriangl&#x2F;pict2cam?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;pict2cam?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;pict2cam?style=flat-square)
 | [Dev-QuickSettings](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;Dev-QuickSettings) | Android | Kotlin | October 13, 2019 | ![](https://img.shields.io/github/stars/adriangl&#x2F;Dev-QuickSettings?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;Dev-QuickSettings?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;Dev-QuickSettings?style=flat-square)
 | [OverlayHelper](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;OverlayHelper) | Android | Java | June 17, 2019 | ![](https://img.shields.io/github/stars/adriangl&#x2F;OverlayHelper?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;OverlayHelper?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;OverlayHelper?style=flat-square)
 | [Dissidia Duodecim Final Fantasy DLC Toolkit](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;DissDlcToolkit) | Windows | C# | February 14, 2016 | ![](https://img.shields.io/github/stars/adriangl&#x2F;DissDlcToolkit?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;DissDlcToolkit?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;DissDlcToolkit?style=flat-square)
@@ -59,6 +59,6 @@ Who doesn't love some stats?
 
 _This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day_ 
 
-_Latest update: Monday, November 16, 2020, 01:06 AM GMT+1_
+_Latest update: Tuesday, November 17, 2020, 01:06 AM GMT+1_
 
 _Latest repo version: 1.0.4_
