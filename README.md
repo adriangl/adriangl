@@ -7,7 +7,7 @@
 
 ------------
 
-Nice to meet you! My name is **Adrián García**, an **Android developer** from **Madrid, Spain 🇪🇸** currently working at [@bq](https://github.com/bq).
+Nice to meet you! My name is **Adrián García**, an **Android developer** from **Madrid, Spain 🇪🇸** currently working at [@masmovil](https://github.com/masmovil).
 
 I mainly focus on Android development with Kotlin and Java, but I'm not afraid of tinkering with Typescript, Python or shell scripts.
 
@@ -59,6 +59,6 @@ Who doesn't love some stats?
 
 _This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day_ 
 
-_Latest update: Sunday, December 27, 2020, 01:14 AM GMT+1_
+_Latest update: Sunday, December 27, 2020, 03:16 AM GMT+1_
 
-_Latest repo version: 1.0.4_
+_Latest repo version: 1.0.5_
