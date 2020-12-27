@@ -63,5 +63,6 @@ npm run generate_readme
 
 ## Releases and version bumping
 * Version management is already bundled in `npm` with `npm-version`: https://docs.npmjs.com/cli/version. This can create a commit with metadata changes based on git tags
+* Bump the version with `npm version [major|minor|patch]`
 * You can set-up `preversion`, `version` and `postversion` scripts to execute tasks in these stages of version generation
 * You can customize prefix addition in version, or version bump commit message with `.npmrc`: https://docs.npmjs.com/misc/config#tag-version-prefix
