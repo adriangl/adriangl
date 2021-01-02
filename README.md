@@ -59,6 +59,6 @@ Who doesn't love some stats?
 
 _This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day_ 
 
-_Latest update: Friday, January 1, 2021, 01:18 AM GMT+1_
+_Latest update: Saturday, January 2, 2021, 01:17 AM GMT+1_
 
 _Latest repo version: 1.0.5_
