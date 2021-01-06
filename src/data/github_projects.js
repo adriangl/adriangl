@@ -1,6 +1,12 @@
 const githubProjects = {
   personal: [
     {
+      name: "Check New Commits Action",
+      owner: "adriangl",
+      repo: "check-new-commits-action",
+      platforms: "GitHub Actions",
+    },
+    {
       name: "Pict2Cam",
       owner: "adriangl",
       repo: "pict2cam",
