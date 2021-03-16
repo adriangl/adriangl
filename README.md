@@ -26,7 +26,7 @@ I also try my best at automating stuff (Github Actions FTW!)
 ### Personal open source projects
 | Project  |   Platforms   |  Programming Language(s)  | Latest update | Stars | PRs | Issues |
 | -------  | ------------- | ------------------------- | ------------- | ----- | --- | ------ |
-| [Check New Commits Action](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;check-new-commits-action) | GitHub Actions | TypeScript | March 9, 2021 | ![](https://img.shields.io/github/stars/adriangl&#x2F;check-new-commits-action?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;check-new-commits-action?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;check-new-commits-action?style=flat-square)
+| [Check New Commits Action](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;check-new-commits-action) | GitHub Actions | TypeScript | March 15, 2021 | ![](https://img.shields.io/github/stars/adriangl&#x2F;check-new-commits-action?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;check-new-commits-action?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;check-new-commits-action?style=flat-square)
 | [Pict2Cam](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;pict2cam) | Android | Kotlin | March 8, 2021 | ![](https://img.shields.io/github/stars/adriangl&#x2F;pict2cam?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;pict2cam?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;pict2cam?style=flat-square)
 | [Dev-QuickSettings](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;Dev-QuickSettings) | Android | Kotlin | October 13, 2019 | ![](https://img.shields.io/github/stars/adriangl&#x2F;Dev-QuickSettings?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;Dev-QuickSettings?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;Dev-QuickSettings?style=flat-square)
 | [OverlayHelper](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;OverlayHelper) | Android | Java | June 17, 2019 | ![](https://img.shields.io/github/stars/adriangl&#x2F;OverlayHelper?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;OverlayHelper?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;OverlayHelper?style=flat-square)
@@ -35,8 +35,8 @@ I also try my best at automating stuff (Github Actions FTW!)
 ### Projects I contribute to
 | Project  |   Platforms   |  Programming Language(s)  | Latest update | Stars | PRs | Issues |
 | -------  | ------------- | ------------------------- | ------------- | ----- | --- | ------ |
+| [Mini Kotlin](https://github.com/bq&#x2F;mini-kotlin) | Android, Kotlin | Kotlin | March 15, 2021 | ![](https://img.shields.io/github/stars/bq&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;mini-kotlin?style=flat-square)
 | [PoEditor Android Gradle Plugin](https://github.com/bq&#x2F;poeditor-android-gradle-plugin) | Android | Kotlin | March 4, 2021 | ![](https://img.shields.io/github/stars/bq&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;poeditor-android-gradle-plugin?style=flat-square)
-| [Mini Kotlin](https://github.com/bq&#x2F;mini-kotlin) | Android, Kotlin | Kotlin | December 28, 2020 | ![](https://img.shields.io/github/stars/bq&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;mini-kotlin?style=flat-square)
 | [Android App Updates Helper](https://github.com/bq&#x2F;android-app-updates-helper) | Android | Java | November 5, 2020 | ![](https://img.shields.io/github/stars/bq&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;android-app-updates-helper?style=flat-square)
 | [tag-flow](https://github.com/bq&#x2F;tag-flow) | Any | Python | September 7, 2020 | ![](https://img.shields.io/github/stars/bq&#x2F;tag-flow?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;tag-flow?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;tag-flow?style=flat-square)
 
@@ -60,6 +60,6 @@ Who doesn't love some stats?
 
 _This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day_ 
 
-_Latest update: Monday, March 15, 2021, 01:10 AM GMT+1_
+_Latest update: Tuesday, March 16, 2021, 01:08 AM GMT+1_
 
 _Latest repo version: 1.0.6_
