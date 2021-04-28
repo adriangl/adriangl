@@ -34,25 +34,25 @@ const githubProjects = {
   contributions: [
     {
       name: "PoEditor Android Gradle Plugin",
-      owner: "bq",
+      owner: "hyperdevs-team",
       repo: "poeditor-android-gradle-plugin",
       platforms: "Android",
     },
     {
       name: "Mini Kotlin",
-      owner: "bq",
+      owner: "hyperdevs-team",
       repo: "mini-kotlin",
       platforms: "Android, Kotlin",
     },
     {
       name: "Android App Updates Helper",
-      owner: "bq",
+      owner: "hyperdevs-team",
       repo: "android-app-updates-helper",
       platforms: "Android",
     },
     {
       name: "tag-flow",
-      owner: "bq",
+      owner: "hyperdevs-team",
       repo: "tag-flow",
       platforms: "Any",
     },
