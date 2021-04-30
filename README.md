@@ -35,10 +35,10 @@ I also try my best at automating stuff (Github Actions FTW!)
 ### Projects I contribute to
 | Project  |   Platforms   |  Programming Language(s)  | Latest update | Stars | PRs | Issues |
 | -------  | ------------- | ------------------------- | ------------- | ----- | --- | ------ |
-| [Mini Kotlin](https://github.com/bq&#x2F;mini-kotlin) | Android, Kotlin | Kotlin | March 15, 2021 | ![](https://img.shields.io/github/stars/bq&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;mini-kotlin?style=flat-square)
-| [PoEditor Android Gradle Plugin](https://github.com/bq&#x2F;poeditor-android-gradle-plugin) | Android | Kotlin | March 4, 2021 | ![](https://img.shields.io/github/stars/bq&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;poeditor-android-gradle-plugin?style=flat-square)
-| [Android App Updates Helper](https://github.com/bq&#x2F;android-app-updates-helper) | Android | Java | November 5, 2020 | ![](https://img.shields.io/github/stars/bq&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;android-app-updates-helper?style=flat-square)
-| [tag-flow](https://github.com/bq&#x2F;tag-flow) | Any | Python | September 7, 2020 | ![](https://img.shields.io/github/stars/bq&#x2F;tag-flow?style=flat-square) | ![](https://img.shields.io/github/issues-pr/bq&#x2F;tag-flow?style=flat-square) | ![](https://img.shields.io/github/issues/bq&#x2F;tag-flow?style=flat-square)
+| [Mini Kotlin](https://github.com/hyperdevs-team&#x2F;mini-kotlin) | Android, Kotlin | Kotlin | April 30, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;mini-kotlin?style=flat-square)
+| [PoEditor Android Gradle Plugin](https://github.com/hyperdevs-team&#x2F;poeditor-android-gradle-plugin) | Android | Kotlin | April 29, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square)
+| [tag-flow](https://github.com/hyperdevs-team&#x2F;tag-flow) | Any | Python | April 28, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;tag-flow?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;tag-flow?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;tag-flow?style=flat-square)
+| [Android App Updates Helper](https://github.com/hyperdevs-team&#x2F;android-app-updates-helper) | Android | Kotlin | April 28, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;android-app-updates-helper?style=flat-square)
 
 ## Some GitHub stats
 Who doesn't love some stats?
@@ -60,6 +60,6 @@ Who doesn't love some stats?
 
 _This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day_ 
 
-_Latest update: Wednesday, April 28, 2021, 02:03 AM GMT+2_
+_Latest update: Friday, April 30, 2021, 02:02 AM GMT+2_
 
 _Latest repo version: 1.0.6_
