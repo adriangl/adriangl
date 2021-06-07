@@ -60,6 +60,6 @@ Who doesn't love some stats?
 
 _This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day_ 
 
-_Latest update: Sunday, June 6, 2021, 02:07 AM GMT+2_
+_Latest update: Monday, June 7, 2021, 02:07 AM GMT+2_
 
 _Latest repo version: 1.0.6_
