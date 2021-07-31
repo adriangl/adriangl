@@ -26,7 +26,7 @@ I also try my best at automating stuff (Github Actions FTW!)
 ### Personal open source projects
 | Project  |   Platforms   |  Programming Language(s)  | Latest update | Stars | PRs | Issues |
 | -------  | ------------- | ------------------------- | ------------- | ----- | --- | ------ |
-| [Pict2Cam](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;pict2cam) | Android | Kotlin | July 27, 2021 | ![](https://img.shields.io/github/stars/adriangl&#x2F;pict2cam?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;pict2cam?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;pict2cam?style=flat-square)
+| [Pict2Cam](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;pict2cam) | Android | Kotlin | July 30, 2021 | ![](https://img.shields.io/github/stars/adriangl&#x2F;pict2cam?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;pict2cam?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;pict2cam?style=flat-square)
 | [Check New Commits Action](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;check-new-commits-action) | GitHub Actions | TypeScript | July 4, 2021 | ![](https://img.shields.io/github/stars/adriangl&#x2F;check-new-commits-action?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;check-new-commits-action?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;check-new-commits-action?style=flat-square)
 | [Dev-QuickSettings](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;Dev-QuickSettings) | Android | Kotlin | October 13, 2019 | ![](https://img.shields.io/github/stars/adriangl&#x2F;Dev-QuickSettings?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;Dev-QuickSettings?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;Dev-QuickSettings?style=flat-square)
 | [OverlayHelper](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;OverlayHelper) | Android | Java | June 17, 2019 | ![](https://img.shields.io/github/stars/adriangl&#x2F;OverlayHelper?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;OverlayHelper?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;OverlayHelper?style=flat-square)
@@ -35,7 +35,7 @@ I also try my best at automating stuff (Github Actions FTW!)
 ### Projects I contribute to
 | Project  |   Platforms   |  Programming Language(s)  | Latest update | Stars | PRs | Issues |
 | -------  | ------------- | ------------------------- | ------------- | ----- | --- | ------ |
-| [PoEditor Android Gradle Plugin](https://github.com/hyperdevs-team&#x2F;poeditor-android-gradle-plugin) | Android | Kotlin | July 26, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square)
+| [PoEditor Android Gradle Plugin](https://github.com/hyperdevs-team&#x2F;poeditor-android-gradle-plugin) | Android | Kotlin | July 30, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square)
 | [Mini Kotlin](https://github.com/hyperdevs-team&#x2F;mini-kotlin) | Android, Kotlin | Kotlin | July 22, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;mini-kotlin?style=flat-square)
 | [tag-flow](https://github.com/hyperdevs-team&#x2F;tag-flow) | Any | Python | April 28, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;tag-flow?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;tag-flow?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;tag-flow?style=flat-square)
 | [Android App Updates Helper](https://github.com/hyperdevs-team&#x2F;android-app-updates-helper) | Android | Kotlin | April 28, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;android-app-updates-helper?style=flat-square)
@@ -60,6 +60,6 @@ Who doesn't love some stats?
 
 _This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day_ 
 
-_Latest update: Friday, July 30, 2021, 02:02 AM GMT+2_
+_Latest update: Saturday, July 31, 2021, 02:01 AM GMT+2_
 
 _Latest repo version: 1.0.6_
