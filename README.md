@@ -26,7 +26,7 @@ I also try my best at automating stuff (Github Actions FTW!)
 ### Personal open source projects
 | Project  |   Platforms   |  Programming Language(s)  | Latest update | Stars | PRs | Issues |
 | -------  | ------------- | ------------------------- | ------------- | ----- | --- | ------ |
-| [Pict2Cam](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;pict2cam) | Android | Kotlin | September 13, 2021 | ![](https://img.shields.io/github/stars/adriangl&#x2F;pict2cam?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;pict2cam?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;pict2cam?style=flat-square)
+| [Pict2Cam](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;pict2cam) | Android | Kotlin | September 15, 2021 | ![](https://img.shields.io/github/stars/adriangl&#x2F;pict2cam?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;pict2cam?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;pict2cam?style=flat-square)
 | [Check New Commits Action](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;check-new-commits-action) | GitHub Actions | TypeScript | September 1, 2021 | ![](https://img.shields.io/github/stars/adriangl&#x2F;check-new-commits-action?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;check-new-commits-action?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;check-new-commits-action?style=flat-square)
 | [Dev-QuickSettings](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;Dev-QuickSettings) | Android | Kotlin | October 13, 2019 | ![](https://img.shields.io/github/stars/adriangl&#x2F;Dev-QuickSettings?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;Dev-QuickSettings?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;Dev-QuickSettings?style=flat-square)
 | [OverlayHelper](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;OverlayHelper) | Android | Java | June 17, 2019 | ![](https://img.shields.io/github/stars/adriangl&#x2F;OverlayHelper?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;OverlayHelper?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;OverlayHelper?style=flat-square)
@@ -60,6 +60,6 @@ Who doesn't love some stats?
 
 _This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day_ 
 
-_Latest update: Wednesday, September 15, 2021, 02:01 AM GMT+2_
+_Latest update: Thursday, September 16, 2021, 02:02 AM GMT+2_
 
 _Latest repo version: 1.0.6_
