@@ -33,6 +33,12 @@ const githubProjects = {
   ],
   contributions: [
     {
+      name: "Morsa UI Testing Framework",
+      owner: "hyperdevs-team",
+      repo: "morsa",
+      platforms: "Android",
+    },
+    {
       name: "PoEditor Android Gradle Plugin",
       owner: "hyperdevs-team",
       repo: "poeditor-android-gradle-plugin",
