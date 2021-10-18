@@ -35,9 +35,9 @@ I also try my best at automating stuff (Github Actions FTW!)
 ### Projects I contribute to
 | Project  |   Platforms   |  Programming Language(s)  | Latest update | Stars | PRs | Issues |
 | -------  | ------------- | ------------------------- | ------------- | ----- | --- | ------ |
+| [PoEditor Android Gradle Plugin](https://github.com/hyperdevs-team&#x2F;poeditor-android-gradle-plugin) | Android | Kotlin | October 17, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square)
 | [Morsa UI Testing Framework](https://github.com/hyperdevs-team&#x2F;morsa) | Android | Kotlin | October 5, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;morsa?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;morsa?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;morsa?style=flat-square)
 | [Mini Kotlin](https://github.com/hyperdevs-team&#x2F;mini-kotlin) | Android, Kotlin | Kotlin | October 1, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;mini-kotlin?style=flat-square)
-| [PoEditor Android Gradle Plugin](https://github.com/hyperdevs-team&#x2F;poeditor-android-gradle-plugin) | Android | Kotlin | September 16, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square)
 | [tag-flow](https://github.com/hyperdevs-team&#x2F;tag-flow) | Any | Python | April 28, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;tag-flow?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;tag-flow?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;tag-flow?style=flat-square)
 | [Android App Updates Helper](https://github.com/hyperdevs-team&#x2F;android-app-updates-helper) | Android | Kotlin | April 28, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;android-app-updates-helper?style=flat-square)
 
@@ -61,6 +61,6 @@ Who doesn't love some stats?
 
 _This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day_ 
 
-_Latest update: Sunday, October 17, 2021, 02:02 AM GMT+2_
+_Latest update: Monday, October 18, 2021, 02:02 AM GMT+2_
 
 _Latest repo version: 1.0.6_
