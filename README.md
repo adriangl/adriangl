@@ -49,6 +49,7 @@ Who doesn't love some stats?
 ![Top Langs](https://github.com/adriangl/github-stats/raw/master/generated/languages.svg)
 
 ## My latest posts
+* [Themed app icons in Android 13](https:&#x2F;&#x2F;medium.com&#x2F;@adrian.gl&#x2F;themed-app-icons-in-android-13-c1fd5208447c?source&#x3D;rss-9494e2f269a9------2) written on Friday, February 11, 2022, 07:32 PM GMT+1
 * [How to test Jetpack Compose’s ProgressIndicators](https:&#x2F;&#x2F;medium.com&#x2F;@adrian.gl&#x2F;how-to-test-jetpack-composes-progressindicators-64bd231e1b22?source&#x3D;rss-9494e2f269a9------2) written on Friday, February 4, 2022, 08:46 AM GMT+1
 * [Adapting your apps to Android Oreo](https:&#x2F;&#x2F;medium.com&#x2F;bq-engineering&#x2F;adapting-your-apps-to-android-oreo-56055fbfbeef?source&#x3D;rss-9494e2f269a9------2) written on Friday, July 27, 2018, 09:21 AM GMT+2
 
@@ -62,6 +63,6 @@ Who doesn't love some stats?
 
 _This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day_ 
 
-_Latest update: Friday, February 11, 2022, 01:02 AM GMT+1_
+_Latest update: Saturday, February 12, 2022, 01:02 AM GMT+1_
 
 _Latest repo version: 1.0.6_
