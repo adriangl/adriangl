@@ -9,18 +9,17 @@
 
 Nice to meet you! My name is **Adrián García**, an **Android developer** from **Madrid, Spain 🇪🇸** currently working at [@masmovil](https://github.com/masmovil).
 
-I mainly focus on Android development with Kotlin and Java, but I'm not afraid of tinkering with Typescript, Python or shell scripts.
+I mainly focus on Android development with Kotlin and Java, but I'm not afraid of tinkering with Typescript, Python or shell scripts. I also love working with other languages like Ruby to automate CI flows in apps (Github Actions FTW!).
 
 War-scarred by Clean architectures and now in love with Redux/Flux and reactive programming, I keep studying new software architectures and patterns to improve my code.
-I also try my best at automating stuff (Github Actions FTW!)
 
 ------------
 
 ## About me
-- 🔭 I'm currently working on open-source libs, apps and tools that improve Android development
-- 🌱 I'm learning a bit of Typescript so I can work on some projects with Firebase
-- 💬 Ask me about anything Android related. I can also help you with architecture stuff :P
-- ⚡ Fun fact: I'm a videogame enthusiast 🎮
+- 🔭 I'm currently working on open-source libs, apps and tools that improve Android development.
+- 🌱 I'm learning a bit of Typescript so I can work on some projects with Firebase. I'm also re-learning some Ruby so I can work with automation tools such as `fastlane`.
+- 💬 Ask me about anything Android related. I can also help you with architecture stuff 😜
+- ⚡ Fun fact: I'm a videogame enthusiast 🎮. I love JRPGs and hack and slash games!
 
 ## Open source and contributions
 ### Personal open source projects
@@ -35,8 +34,8 @@ I also try my best at automating stuff (Github Actions FTW!)
 ### Projects I contribute to
 | Project  |   Platforms   |  Programming Language(s)  | Latest update | Stars | PRs | Issues |
 | -------  | ------------- | ------------------------- | ------------- | ----- | --- | ------ |
+| [PoEditor Android Gradle Plugin](https://github.com/hyperdevs-team&#x2F;poeditor-android-gradle-plugin) | Android | Kotlin | September 18, 2022 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square)
 | [Mini Kotlin](https://github.com/hyperdevs-team&#x2F;mini-kotlin) | Android, Kotlin | Kotlin | September 1, 2022 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;mini-kotlin?style=flat-square)
-| [PoEditor Android Gradle Plugin](https://github.com/hyperdevs-team&#x2F;poeditor-android-gradle-plugin) | Android | Kotlin | July 16, 2022 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square)
 | [Morsa UI Testing Framework](https://github.com/hyperdevs-team&#x2F;morsa) | Android | Kotlin | October 5, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;morsa?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;morsa?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;morsa?style=flat-square)
 | [tag-flow](https://github.com/hyperdevs-team&#x2F;tag-flow) | Any | Python | April 28, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;tag-flow?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;tag-flow?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;tag-flow?style=flat-square)
 | [Android App Updates Helper](https://github.com/hyperdevs-team&#x2F;android-app-updates-helper) | Android | Kotlin | April 28, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;android-app-updates-helper?style=flat-square)
@@ -45,8 +44,8 @@ I also try my best at automating stuff (Github Actions FTW!)
 Who doesn't love some stats?
 > NOTE: the stats include both public and private repository contributions
 
-![Code stats](https://github.com/adriangl/github-stats/raw/master/generated/overview.svg) 
-![Top Langs](https://github.com/adriangl/github-stats/raw/master/generated/languages.svg)
+![Code Stats](https://raw.githubusercontent.com/adriangl/GitStats/actions_branch/generated_images/overviewLightMode.svg#gh-light-mode-only)![](https://raw.githubusercontent.com/adriangl/GitStats/actions_branch/generated_images/overviewDarkMode.svg#gh-dark-mode-only)
+![Top Langs](https://raw.githubusercontent.com/adriangl/GitStats/actions_branch/generated_images/languagesLightMode.svg#gh-light-mode-only)![](https://raw.githubusercontent.com/adriangl/GitStats/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only)
 
 ## My latest posts
 * [Themed app icons in Android 13](https:&#x2F;&#x2F;medium.com&#x2F;@adrian.gl&#x2F;themed-app-icons-in-android-13-c1fd5208447c?source&#x3D;rss-9494e2f269a9------2) written on Friday, February 11, 2022, 07:32 PM GMT+1
@@ -57,12 +56,12 @@ Who doesn't love some stats?
 
 ## Credits
 * _Thanks to [Thomas Guibert's awesome guide to create automated GitHub profile READMEs](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91)._
-* _Thanks to [Jacob Strieb's github-stats project](https://github.com/jstrieb/github-stats) for the code and language stats' images._
+* _Thanks to [Adam Ross's GitStats project](https://github.com/R055A/GitStats) (and also to [Jacob Strieb's github-stats project](https://github.com/jstrieb/github-stats)) for the code and language stats' images._
 
 ------------
 
 _This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day_ 
 
-_Latest update: Sunday, September 18, 2022, 02:03 AM GMT+2_
+_Latest update: Sunday, September 18, 2022, 08:53 PM GMT+2_
 
 _Latest repo version: 1.0.6_
