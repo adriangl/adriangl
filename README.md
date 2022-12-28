@@ -25,7 +25,7 @@ War-scarred by Clean architectures and now in love with Redux/Flux and reactive 
 ### Personal open source projects
 | Project  |   Platforms   |  Programming Language(s)  | Latest update | Stars | PRs | Issues |
 | -------  | ------------- | ------------------------- | ------------- | ----- | --- | ------ |
-| [Check New Commits Action](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;check-new-commits-action) | GitHub Actions | TypeScript | December 1, 2022 | ![](https://img.shields.io/github/stars/adriangl&#x2F;check-new-commits-action?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;check-new-commits-action?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;check-new-commits-action?style=flat-square)
+| [Check New Commits Action](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;check-new-commits-action) | GitHub Actions | TypeScript | December 27, 2022 | ![](https://img.shields.io/github/stars/adriangl&#x2F;check-new-commits-action?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;check-new-commits-action?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;check-new-commits-action?style=flat-square)
 | [Pict2Cam](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;pict2cam) | Android | Kotlin | December 1, 2022 | ![](https://img.shields.io/github/stars/adriangl&#x2F;pict2cam?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;pict2cam?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;pict2cam?style=flat-square)
 | [Dev-QuickSettings](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;Dev-QuickSettings) | Android | Kotlin | October 13, 2019 | ![](https://img.shields.io/github/stars/adriangl&#x2F;Dev-QuickSettings?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;Dev-QuickSettings?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;Dev-QuickSettings?style=flat-square)
 | [OverlayHelper](https:&#x2F;&#x2F;github.com&#x2F;adriangl&#x2F;OverlayHelper) | Android | Java | June 17, 2019 | ![](https://img.shields.io/github/stars/adriangl&#x2F;OverlayHelper?style=flat-square) | ![](https://img.shields.io/github/issues-pr/adriangl&#x2F;OverlayHelper?style=flat-square) | ![](https://img.shields.io/github/issues/adriangl&#x2F;OverlayHelper?style=flat-square)
@@ -34,7 +34,7 @@ War-scarred by Clean architectures and now in love with Redux/Flux and reactive 
 ### Projects I contribute to
 | Project  |   Platforms   |  Programming Language(s)  | Latest update | Stars | PRs | Issues |
 | -------  | ------------- | ------------------------- | ------------- | ----- | --- | ------ |
-| [PoEditor Android Gradle Plugin](https://github.com/hyperdevs-team&#x2F;poeditor-android-gradle-plugin) | Android | Kotlin | December 22, 2022 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square)
+| [PoEditor Android Gradle Plugin](https://github.com/hyperdevs-team&#x2F;poeditor-android-gradle-plugin) | Android | Kotlin | December 27, 2022 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square)
 | [Mini Kotlin](https://github.com/hyperdevs-team&#x2F;mini-kotlin) | Android, Kotlin | Kotlin | December 1, 2022 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;mini-kotlin?style=flat-square)
 | [Morsa UI Testing Framework](https://github.com/hyperdevs-team&#x2F;morsa) | Android | Kotlin | October 5, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;morsa?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;morsa?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;morsa?style=flat-square)
 | [tag-flow](https://github.com/hyperdevs-team&#x2F;tag-flow) | Any | Python | April 28, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;tag-flow?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;tag-flow?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;tag-flow?style=flat-square)
@@ -62,6 +62,6 @@ Who doesn't love some stats?
 
 _This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day_ 
 
-_Latest update: Tuesday, December 27, 2022, 01:02 AM GMT+1_
+_Latest update: Wednesday, December 28, 2022, 01:03 AM GMT+1_
 
 _Latest repo version: 1.0.8_
