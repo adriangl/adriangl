@@ -48,6 +48,7 @@ Who doesn't love some stats?
 ![Top Langs](https://raw.githubusercontent.com/adriangl/GitStats/actions_branch/generated_images/languagesLightMode.svg#gh-light-mode-only)![](https://raw.githubusercontent.com/adriangl/GitStats/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only)
 
 ## My latest posts
+* [How to mock and test ActivityResult APIs with Jetpack Compose](https:&#x2F;&#x2F;medium.com&#x2F;@adrian.gl&#x2F;how-to-mock-and-test-activityresult-apis-with-jetpack-compose-f3a1d6311171?source&#x3D;rss-9494e2f269a9------2) written on Monday, January 8, 2024, 10:01 AM GMT+1
 * [Themed app icons in Android 13](https:&#x2F;&#x2F;medium.com&#x2F;@adrian.gl&#x2F;themed-app-icons-in-android-13-c1fd5208447c?source&#x3D;rss-9494e2f269a9------2) written on Friday, February 11, 2022, 07:32 PM GMT+1
 * [How to test Jetpack Compose’s ProgressIndicators](https:&#x2F;&#x2F;medium.com&#x2F;@adrian.gl&#x2F;how-to-test-jetpack-composes-progressindicators-64bd231e1b22?source&#x3D;rss-9494e2f269a9------2) written on Friday, February 4, 2022, 08:46 AM GMT+1
 * [Adapting your apps to Android Oreo](https:&#x2F;&#x2F;medium.com&#x2F;bq-engineering&#x2F;adapting-your-apps-to-android-oreo-56055fbfbeef?source&#x3D;rss-9494e2f269a9------2) written on Friday, July 27, 2018, 09:21 AM GMT+2
@@ -62,6 +63,6 @@ Who doesn't love some stats?
 
 _This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day_ 
 
-_Latest update: Monday, January 8, 2024, 01:03 AM GMT+1_
+_Latest update: Tuesday, January 9, 2024, 01:03 AM GMT+1_
 
 _Latest repo version: 1.0.8_
