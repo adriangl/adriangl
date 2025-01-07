@@ -34,7 +34,7 @@ War-scarred by Clean architectures and now in love with Redux/Flux and reactive 
 ### Projects I contribute to
 | Project  |   Platforms   |  Programming Language(s)  | Latest update | Stars | PRs | Issues |
 | -------  | ------------- | ------------------------- | ------------- | ----- | --- | ------ |
-| [PoEditor Android Gradle Plugin](https://github.com/hyperdevs-team&#x2F;poeditor-android-gradle-plugin) | Android | Kotlin | December 7, 2024 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square)
+| [PoEditor Android Gradle Plugin](https://github.com/hyperdevs-team&#x2F;poeditor-android-gradle-plugin) | Android | Kotlin | January 6, 2025 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;poeditor-android-gradle-plugin?style=flat-square)
 | [Mini Kotlin](https://github.com/hyperdevs-team&#x2F;mini-kotlin) | Android, Kotlin | Kotlin | September 1, 2024 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;mini-kotlin?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;mini-kotlin?style=flat-square)
 | [Android App Updates Helper](https://github.com/hyperdevs-team&#x2F;android-app-updates-helper) | Android | Java | September 3, 2023 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;android-app-updates-helper?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;android-app-updates-helper?style=flat-square)
 | [Morsa UI Testing Framework](https://github.com/hyperdevs-team&#x2F;morsa) | Android | Kotlin | October 5, 2021 | ![](https://img.shields.io/github/stars/hyperdevs-team&#x2F;morsa?style=flat-square) | ![](https://img.shields.io/github/issues-pr/hyperdevs-team&#x2F;morsa?style=flat-square) | ![](https://img.shields.io/github/issues/hyperdevs-team&#x2F;morsa?style=flat-square)
@@ -63,6 +63,6 @@ Who doesn't love some stats?
 
 _This README is generated automatically thanks to [Github Actions](https://github.com/features/actions) every day_ 
 
-_Latest update: Monday, January 6, 2025, 01:04 AM GMT+1_
+_Latest update: Tuesday, January 7, 2025, 01:04 AM GMT+1_
 
 _Latest repo version: 1.0.8_
