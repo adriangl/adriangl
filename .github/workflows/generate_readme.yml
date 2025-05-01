@@ -22,7 +22,7 @@ jobs:
       - name: Read .nvmrc
         id: read_nvmrc
         run: |
-          echo ::set-output name=NODE_VERSION::$(cat .nvmrc)
+          echo "NODE_VERSION=$(cat .nvmrc)" >> $GITHUB_OUTPUT
       - name: Setup node
         uses: actions/setup-node@v4
         with:
@@ -30,7 +30,7 @@ jobs:
       - name: Get npm cache directory
         id: npm-cache
         run: |
-          echo "::set-output name=dir::$(npm config get cache)"
+          echo "dir=$(npm config get cache)" >> $GITHUB_OUTPUT
       - name: Cache dependencies
         uses: actions/cache@v4
         with:
